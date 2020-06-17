@@ -1,0 +1,28 @@
+header{position: fixed;top: 0;
+    min-height: px;
+    padding: 0px 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #fff
+  ;width:100%}
+  #nav-bar{display:flex}
+  ul{display:flex ;margin:35px;}
+  li{list-style: none;font-size: 1.1em }
+  h1{color:#e42033;margin-left:10px;margin-top:30px}
+  .nav-link{ margin:40px}
+  @media (max-width: 600px) {
+    header {
+      flex-wrap: wrap;
+    }
+  }
+  #form{margin:120px; margin-left:430px}
+  .pk{background-image: url("https://cdn.ween.tn/news/uploads/articles/98786.jpg") ;height:350px;}
+  p{ background-color:rgba(0, 0, 0, 0.5) ;color:#FFF
+  ;padding:40px;}
+  .rp{background-image:url("https://live.staticflickr.com/5738/29945949360_2f4c67e381_b.jpg");height:350px ;background-size: 100% auto}
+  .cr{background-image:url("https://www.baya.tn/wp-content/uploads/2015/03/Mode-tenues-traditionnelles.jpg");height:350px; background-size: 100% auto}
+  .fr{background-image:url("https://www.rpms-tunisie.com/uploads/4153.png");height:350px; background-size: 100% auto}
+  .fr{margin-bottom:30px}
+  h2{text-align:center;color:blue;text-decoration: underline}
+  #pricing{text-align:center}
